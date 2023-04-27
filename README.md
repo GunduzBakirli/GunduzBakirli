@@ -1,9 +1,8 @@
-
-# Hi there, I'm Gunduz ! :wave:
-[![Linkedin: GunduzBakirli](https://img.shields.io/badge/-Gunduz-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps:https://www.linkedin.com/in/gunduzbakirli/)](https://www.linkedin.com/in/gunduzbakirli/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/GunduzBakirli?label=follow&style=social)](https://github.com/GunduzBakirli`)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GunduzBakirli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunduzBakirli&layout=compact&theme=gotham&custom_title=Statistics)
+# Hi there, I'm Hokmiran ! :wave:
+[![Linkedin: akifhaciyev](https://img.shields.io/badge/-Hokmiran-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps:https://www.linkedin.com/in/hokmiran-soltanli-21791321b/)](https://www.linkedin.com/in/hokmiran-soltanli-21791321b/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Hokmiran?label=follow&style=social)](https://github.com/Hokmiran)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hokmiran&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hokmiran&layout=compact&theme=gotham&custom_title=Statistics)
 # Languages and Tools
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
