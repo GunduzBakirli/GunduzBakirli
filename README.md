@@ -1,6 +1,6 @@
 # Hi there, I'm Gunduz ! 👋
 
-[![Linkedin: GunduzBakirli](https://img.shields.io/badge/-Hokmiran-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps:https://www.linkedin.com/in/gunduzbakirli/)](https://www.linkedin.com/in/gunduzbakirli/)
+[![Linkedin: GunduzBakirli](https://img.shields.io/badge/-Gunduz-blue?style=flat-square&logo=Linkedin&logoColor=white&target=_blank&linkhttps:https://www.linkedin.com/in/gunduzbakirli/)](https://www.linkedin.com/in/gunduzbakirli/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/GunduzBakirli?label=follow&style=social)](https://github.com/GunduzBakirli)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GunduzBakirli&show_icons=true&theme=radical)
